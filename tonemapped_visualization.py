@@ -14,7 +14,7 @@ import data_io as io
 import cv2
 import metrics as m
 
-ref_dir = './Validation/gt'
+ref_dir = path  = "/content/gdrive/MyDrive/ColabNotebooks/PYNET/dataset/hdrunet/train/hdr_out/7576.png"
 ref_alignratio_dir = './Validation/alignratio'
 # res_dir = './Validation/medium'
 # res_alignratio_dir = ref_alignratio_dir
